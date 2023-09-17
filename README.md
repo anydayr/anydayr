@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anny</h1>
+<h1 align="center">Hi 💫, I'm Anny</h1>
 <h3 align="center">A passionate frontend developer</h3>
  <img src="https://static.wikia.nocookie.net/liberproeliis/images/c/cd/6e18ea3334642036ea4f2ae79c1249c3b46d9194_hq.gif/revision/latest?cb=20180815221615&path-prefix=pt-br" target="_blank" rel="noreferrer"> 
 </p>
